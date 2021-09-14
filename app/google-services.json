@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "521217255762",
+    "project_id": "adiblar-55e7e",
+    "storage_bucket": "adiblar-55e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521217255762:android:9e5e1de926c5c34bbc328b",
+        "android_client_info": {
+          "package_name": "com.example.adiblarhayoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521217255762-aq4m988tbji2rs5gci83r9fv8gnifh5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxiJi7oKr8wUXvb4KpLr5e1z4RPo82URU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521217255762-aq4m988tbji2rs5gci83r9fv8gnifh5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521217255762:android:fa9aaab74eabdf53bc328b",
+        "android_client_info": {
+          "package_name": "com.example.adminpaneladiblar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521217255762-aq4m988tbji2rs5gci83r9fv8gnifh5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxiJi7oKr8wUXvb4KpLr5e1z4RPo82URU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521217255762-aq4m988tbji2rs5gci83r9fv8gnifh5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
